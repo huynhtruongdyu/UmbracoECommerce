@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+.idea/.idea.UmbracoECommerce/.idea/.gitignore
+.idea/.idea.UmbracoECommerce/.idea/.name
+.idea/.idea.UmbracoECommerce/.idea/encodings.xml
+.idea/.idea.UmbracoECommerce/.idea/indexLayout.xml
+.idea/.idea.UmbracoECommerce/.idea/vcs.xml
